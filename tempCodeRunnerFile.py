@@ -1,0 +1,5 @@
+print(d1)
+print(d2)
+print(d2["Harry"])
+print(d2["Shubham"])
+print(d2["Shubham"]["L"])
